@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @utkasz
-- 👀 I’m interested in playing computer games and football
-- 🌱 I’m currently learning IT
+- 👋 Hi, I’m @Kuba
+- 👀 I’m interested in IT, Mechanics, 3D projects(love SW)
+- 🌱 I’m currently studying Computer Science
 - 💞️ I’m looking to collaborate with my gf <3
-- 📫 How to reach me: music
+- 📫 How to reach me: Mostly music
 
 <!---
 utkaszcwel/utkaszcwel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
